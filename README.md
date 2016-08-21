@@ -5,10 +5,16 @@ In order for this code to work, you must have an Intel Edison, a Kik Bot named s
 
 Your Intel Edison must be connected to the internet and should have a secure login, you must also have an LED connected to the D5 slot
 
-git clone https://github.com/rogerramesh/Iotkik.git
+
+On the terminal 
+
+Enter "git clone https://github.com/rogerramesh/Iotkik.git"
 
 
-To run the code you must enter the team folder and type the following into the terminal "screen /dev/ tty.usbserial (hit Tab)"
+To run the code you must enter the team folder  
+
+
+Type the following into the terminal "screen /dev/ tty.usbserial (hit Tab)"
 
 Enter your user name and password
 
