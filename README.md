@@ -34,4 +34,3 @@ Open a new tab and enter the utilities folder
 Enter "./ http 8080" to start ngrok
 
 Once the ngrok is running hit the on or off button on the Kik App to turn the light on and off
-
