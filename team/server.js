@@ -47,12 +47,7 @@ bot.onTextMessage((message,next) => {
   //return;
 });
 
-/*bot.onTextMessage((message,next) => {
-  var x = Math.floor((Math.random()*10)+1);
-    bot.send(message.addResponseKeyboard([x],false),message.from
-  );
-  return;
-});*/
+
 
 
 // Set up your server and start listening
