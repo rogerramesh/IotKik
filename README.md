@@ -8,7 +8,7 @@ Your Intel Edison must be connected to the internet and should have a secure log
 
 On the terminal 
 
-Enter "git clone https://github.com/rogerramesh/Iotkik.git"
+Enter 'git clone https://github.com/rogerramesh/Iotkik.git'
 
 
 To run the code you must enter the team folder  
