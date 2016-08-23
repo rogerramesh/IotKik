@@ -23,6 +23,7 @@ let bot = new Bot({
     username: 'softwareswag',
     apiKey: '60aa8a40-5d38-4040-a811-7b93ddb00ade',
     baseUrl: 'https://6a327973.ngrok.io'
+    // When the ngrok starts running this baseurl will change make sure your have the same baseURL as the one that is provided with ngrok
 });
 
 bot.updateBotConfiguration();
